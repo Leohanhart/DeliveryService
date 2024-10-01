@@ -1,4 +1,5 @@
 # DeliveryService 🚀
+![FastAPI Logo](https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png)
 
 Welcome to **DeliveryService**, a cutting-edge solution designed for the efficient delivery of data generated within your infrastructure! 🌟
 
