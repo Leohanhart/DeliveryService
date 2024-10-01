@@ -1,8 +1,9 @@
 # DeliveryService 🚀
-![FastAPI Logo](https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png)
-![HU Logo](https://www.leidersonderwijsinnovatie.nl/wp-content/uploads/2022/06/HUlogo.png)
-![Scheepvaart Museum](https://www.hetscheepvaartmuseum.nl/sites/default/files/2018-04/21050813_Foto_Hetlevenaanboord.jpg)
-
+<div style="display: flex; justify-content: center;">
+    <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="FastAPI Logo" style="width: 150px; margin-right: 10px;"/>
+    <img src="https://www.leidersonderwijsinnovatie.nl/wp-content/uploads/2022/06/HUlogo.png" alt="HU Logo" style="margin-right: 10px;"/>
+    <img src="https://www.hetscheepvaartmuseum.nl/sites/default/files/2018-04/21050813_Foto_Hetlevenaanboord.jpg" alt="Scheepvaart Museum"/>
+</div>
 Welcome to **DeliveryService**, a cutting-edge solution designed for the efficient delivery of data generated within your infrastructure! 🌟
 
 This project is built for the best developers around, crafted by talented individuals who have made history in data science. Join us on this journey to streamline data delivery and revolutionize how we manage information! 💻💡
