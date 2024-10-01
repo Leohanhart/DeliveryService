@@ -1,0 +1,17 @@
+version: '3'
+
+services:
+  deliveryserver:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: delivery-server
+    networks:
+      - default
+    ports:
+      - "8080:8080" 
+    restart: always
+    environment:
+      - CONTAINERNAME=delivery-server
+    volumes:
+      - .:/app

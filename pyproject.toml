@@ -1,0 +1,39 @@
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "DeliveryServer"
+version = "0.1.1"
+description = "A Python package for a talentmanagement server from voxtur"
+authors = [
+  {name = "Leo Hanhart", email = "lhanhart1996@gmail.com"},
+]
+dependencies = [
+  "fastapi",
+  "sshtunnel",
+  "uvicorn",
+  "psycopg2-binary",
+  "pandas",
+  "sqlalchemy",
+  "redis",
+  "requests",
+  "celery",
+  "tqdm",
+  "numpy",
+  "python-dotenv",
+  "loguru",
+  "kombu",
+  "apscheduler",
+  "docker",
+  "pyjwt",
+  "pytest",
+  "pytest-asyncio",
+  "pytest-mock",
+  "httpx",
+  "StockDataService@git+https://LHanhart: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@github.com/HanhartTradingTechnologies/StockDataService.git@main"  ,
+  
+]
+
+[options]
+package_dir = "src"
