@@ -33,7 +33,7 @@ Follow these steps to get your **DeliveryService** up and running:
 First, clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/VOXTURNL/Talentenmanagement-AI.git
+git clone https://github.com/Leohanhart/DeliveryService.git
 cd your project
 Create a Virtual Environment
 Set up a virtual environment to manage your dependencies:
