@@ -66,7 +66,7 @@ Finally, run the main script to start your project:
 bash
 Code kopiëren
 python src/DeliveryService/Processes/Main.py
-
+``` 
 Project Overview 🌐
 DeliveryService is powered by FastAPI, providing a robust server architecture. It utilizes Data Transfer Objects (DTOs) for efficient data handling and communication. With seamless Docker integration, it simplifies deployment and management, making it easy to scale as your needs grow.
 
@@ -82,34 +82,34 @@ To configure your project, you will need to set up the following environment var
 
 plaintext
 Code kopiëren
-
-# Voxtur SSH Configuration
+```
+# SSH Configuration
 SSH_NAME=*******
 SSH_HOST=*******
 SSH_PORT=*******
 SSH_USER=*******
 SSH_PASSWORD=*******
 
-# Voxtur DB
+# DB
 DB_HOST=*******
 DB_PORT=*******
 DB_USER=*******
 DB_PASSWORD=*******
 DB_DATABASE=*******
 
-# Voxtur Private Container Registry
+# Private Container Registry
 PCR_SERVER=*******
 PCR_USER=*******
 PCR_PASSWORD=*******
-Make sure to replace the ****** with your actual configuration values.
+Make sure to replace the ******
 
+with your actual configuration values.
+```
 Contributing 🤝
 We welcome contributions from everyone! If you have suggestions or improvements, please feel free to fork the repository and submit a pull request. Together, let's make DeliveryService even better!
 
 License 📄
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-vbnet
-Code kopiëren
 
-You can copy this entire block of text and paste it into a file named `README.md` in your GitHub 
+
