@@ -39,33 +39,28 @@ Create a Virtual Environment
 Set up a virtual environment to manage your dependencies:
 
 bash
-Code kopiëren
 python -m venv venv
 Activate the Virtual Environment
 Activate the virtual environment using the command appropriate for your operating system:
 
 On Windows:
-
-bash
-Code kopiëren
 venv\Scripts\activate
+
 On macOS/Linux:
-
-bash
-Code kopiëren
 source venv/bin/activate
-Install Dependencies
-Install the required dependencies with the following command:
 
-bash
-Code kopiëren
+Install the required dependencies and build the working package with the following command:
 pip install -e .
+
 Run Your Project
 Finally, run the main script to start your project:
 
-bash
-Code kopiëren
 python src/DeliveryService/Processes/Main.py
+
+# Dont forget to set the python interpreter to the one in the VENV in you IDE.
+Type 'where python' to find your python envoirment.
+Type 'pip list' to check if package is installed correctly.
+
 ``` 
 Project Overview 🌐
 DeliveryService is powered by FastAPI, providing a robust server architecture. It utilizes Data Transfer Objects (DTOs) for efficient data handling and communication. With seamless Docker integration, it simplifies deployment and management, making it easy to scale as your needs grow.
