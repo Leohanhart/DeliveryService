@@ -75,8 +75,7 @@ Docker: For containerization.
 Configuration ⚙️
 To configure your project, you will need to set up the following environment variables in a .env file:
 
-plaintext
-Code kopiëren
+# .env file template
 ```
 # SSH Configuration
 SSH_NAME=*******
