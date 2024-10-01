@@ -1,5 +1,7 @@
 # DeliveryService 🚀
 ![FastAPI Logo](https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png)
+![HU Logo](https://www.leidersonderwijsinnovatie.nl/wp-content/uploads/2022/06/HUlogo.png)
+![Scheepvaart Museum](https://www.hetscheepvaartmuseum.nl/sites/default/files/2018-04/21050813_Foto_Hetlevenaanboord.jpg)
 
 Welcome to **DeliveryService**, a cutting-edge solution designed for the efficient delivery of data generated within your infrastructure! 🌟
 
