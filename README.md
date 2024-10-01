@@ -46,7 +46,6 @@ Set up a virtual environment to manage your dependencies:
 
 bash
 python -m venv venv
-Activate the Virtual Environment
 Activate the virtual environment using the command appropriate for your operating system:
 
 On Windows:
