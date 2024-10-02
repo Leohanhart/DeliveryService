@@ -1,4 +1,4 @@
-# DeliveryService 🚀
+# FastAPI, DeliveryService 🚀 (Docker, Auth, DTO's, Package based)
 <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="FastAPI Logo" style="width: 300px; display: block; margin: 0 auto;"/>
 
 
