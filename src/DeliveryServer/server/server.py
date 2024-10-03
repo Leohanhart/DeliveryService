@@ -39,8 +39,7 @@ app.add_middleware(
 
 app.include_router(UserRouter.router)
 app.include_router(AuthRouter.router)
-app.include_router(JobRouter.router)
-app.include_router(QuestionnaireRouter.router)
+
 
 
 @app.route("/{path:path}", methods=["GET", "POST", "PUT", "DELETE", "PATCH"])
