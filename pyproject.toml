@@ -31,8 +31,6 @@ dependencies = [
   "pytest-asyncio",
   "pytest-mock",
   "httpx",
-  "StockDataService@git+https://LHanhart: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@github.com/HanhartTradingTechnologies/StockDataService.git@main"  ,
-  
 ]
 
 [options]
